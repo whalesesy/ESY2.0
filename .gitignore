@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Config & local state
+.env
+esy_memory.db
+history.json
+memory/esy_memory.db
+memory/history.json
+
+# IDEs
+.vscode/
+.idea/
